@@ -1,18 +1,23 @@
 //Maya Preference 2016 (Release 1)
 //
 //
-windowPref -topLeftCorner 225 150 -widthHeight 1978 622 -maximized false -parentMain true outlinerPanel1Window;
+windowPref -topLeftCorner 523 230 -widthHeight 1978 622 -maximized false -parentMain true outlinerPanel1Window;
 windowPref -topLeftCorner 250 200 -widthHeight 700 400 -maximized false -parentMain true hyperGraphPanel1Window;
 windowPref -topLeftCorner 250 200 -widthHeight 660 400 -maximized false -parentMain true graphEditor1Window;
 windowPref -topLeftCorner 250 200 -widthHeight 660 400 -maximized false -parentMain true dopeSheetPanel1Window;
 windowPref -topLeftCorner 250 200 -widthHeight 660 400 -maximized false -parentMain true clipEditorPanel1Window;
 windowPref -topLeftCorner 250 200 -widthHeight 524 470 -maximized false -parentMain true devicePanel1Window;
-windowPref -topLeftCorner 448 790 -widthHeight 1743 900 -maximized false -parentMain true hyperShadePanel1Window;
+windowPref -topLeftCorner 209 555 -widthHeight 1743 900 -maximized false -parentMain true hyperShadePanel1Window;
 windowPref -topLeftCorner 250 200 -widthHeight 700 400 -maximized false -parentMain true dynPaintScriptedPanelWindow;
 windowPref -topLeftCorner 250 200 -widthHeight 550 562 -maximized false -parentMain true blindDataEditor1Window;
-windowPref -topLeftCorner 250 200 -widthHeight 1120 640 -maximized false -parentMain true polyTexturePlacementPanel1Window;
+windowPref -topLeftCorner 366 1142 -widthHeight 1254 808 -maximized false -parentMain true polyTexturePlacementPanel1Window;
 windowPref -topLeftCorner -8 -8 -widthHeight 1280 873 -maximized true -parentMain false MayaWindow;
-windowPref -topLeftCorner 266 1254 -widthHeight 1092 700 -maximized false -parentMain true OptionBoxWindow;
+windowPref -topLeftCorner 421 1321 -widthHeight 1092 700 -maximized false -parentMain true OptionBoxWindow;
 windowPref -topLeftCorner 480 853 -widthHeight 900 640 -maximized false -parentMain true NewFeatureHighlightWnd;
 windowPref -topLeftCorner 522 1030 -widthHeight 1426 569 -maximized false -parentMain true scriptEditorPanel1Window;
 windowPref -topLeftCorner 126 926 -widthHeight 1040 1240 -maximized false -parentMain true connectWindow;
+windowPref -topLeftCorner 480 853 -widthHeight 820 541 -maximized false -parentMain true panelArrangementWin;
+windowPref -topLeftCorner 480 853 -widthHeight 788 960 -maximized false -parentMain true Viewport20OptionsWindow;
+windowPref -topLeftCorner 480 853 -widthHeight 908 730 -maximized false -parentMain true createRenderNodeWindow;
+windowPref -topLeftCorner 480 853 -widthHeight 792 694 -maximized false -parentMain true AutoUnwrapWin;
+windowPref -topLeftCorner -42 -1447 -widthHeight 718 828 -maximized false -parentMain true modelPanel4Window;
