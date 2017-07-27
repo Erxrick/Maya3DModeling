@@ -21,6 +21,7 @@ global proc shelf_XGen () {
         -flipX 0
         -flipY 0
         -useAlpha 1
+        -font "plainLabelFont" 
         -overlayLabelColor 0.8 0.8 0.8 
         -overlayLabelBackColor 0 0 0 0.5 
         -image "C:/Program Files/Autodesk/Maya2016/plug-ins/xgen//icons/xgDEditor.png" 
@@ -51,6 +52,7 @@ global proc shelf_XGen () {
         -flipX 0
         -flipY 0
         -useAlpha 1
+        -font "plainLabelFont" 
         -overlayLabelColor 0.8 0.8 0.8 
         -overlayLabelBackColor 0 0 0 0.5 
         -image "C:/Program Files/Autodesk/Maya2016/plug-ins/xgen//icons/xgPreview.png" 
@@ -81,6 +83,7 @@ global proc shelf_XGen () {
         -flipX 0
         -flipY 0
         -useAlpha 1
+        -font "plainLabelFont" 
         -overlayLabelColor 0.8 0.8 0.8 
         -overlayLabelBackColor 0 0 0 0.5 
         -image "C:/Program Files/Autodesk/Maya2016/plug-ins/xgen//icons/xgPreviewClear.png" 
@@ -111,6 +114,7 @@ global proc shelf_XGen () {
         -flipX 0
         -flipY 0
         -useAlpha 1
+        -font "plainLabelFont" 
         -overlayLabelColor 0.8 0.8 0.8 
         -overlayLabelBackColor 0 0 0 0.5 
         -image "C:/Program Files/Autodesk/Maya2016/plug-ins/xgen//icons/xgCreateDescription.png" 
@@ -141,6 +145,7 @@ global proc shelf_XGen () {
         -flipX 0
         -flipY 0
         -useAlpha 1
+        -font "plainLabelFont" 
         -overlayLabelColor 0.8 0.8 0.8 
         -overlayLabelBackColor 0 0 0 0.5 
         -image "C:/Program Files/Autodesk/Maya2016/plug-ins/xgen//icons/xgBindFaces.png" 
@@ -171,6 +176,7 @@ global proc shelf_XGen () {
         -flipX 0
         -flipY 0
         -useAlpha 1
+        -font "plainLabelFont" 
         -overlayLabelColor 0.8 0.8 0.8 
         -overlayLabelBackColor 0 0 0 0.5 
         -image "C:/Program Files/Autodesk/Maya2016/plug-ins/xgen//icons/xgGuideContext.png" 
@@ -201,6 +207,7 @@ global proc shelf_XGen () {
         -flipX 0
         -flipY 0
         -useAlpha 1
+        -font "plainLabelFont" 
         -overlayLabelColor 0.8 0.8 0.8 
         -overlayLabelBackColor 0 0 0 0.5 
         -image "C:/Program Files/Autodesk/Maya2016/plug-ins/xgen//icons/xgToggleGuide.png" 
@@ -231,6 +238,7 @@ global proc shelf_XGen () {
         -flipX 0
         -flipY 0
         -useAlpha 1
+        -font "plainLabelFont" 
         -overlayLabelColor 0.8 0.8 0.8 
         -overlayLabelBackColor 0 0 0 0.5 
         -image "C:/Program Files/Autodesk/Maya2016/plug-ins/xgen//icons/xgToggleGuideReference.png" 
@@ -261,6 +269,7 @@ global proc shelf_XGen () {
         -flipX 0
         -flipY 0
         -useAlpha 1
+        -font "plainLabelFont" 
         -overlayLabelColor 0.8 0.8 0.8 
         -overlayLabelBackColor 0 0 0 0.5 
         -image "C:/Program Files/Autodesk/Maya2016/plug-ins/xgen//icons/xgFlipGuides.png" 
@@ -291,6 +300,7 @@ global proc shelf_XGen () {
         -flipX 0
         -flipY 0
         -useAlpha 1
+        -font "plainLabelFont" 
         -overlayLabelColor 0.8 0.8 0.8 
         -overlayLabelBackColor 0 0 0 0.5 
         -image "C:/Program Files/Autodesk/Maya2016/plug-ins/xgen//icons/xgSyncPatchVisibility.png" 
@@ -321,6 +331,7 @@ global proc shelf_XGen () {
         -flipX 0
         -flipY 0
         -useAlpha 1
+        -font "plainLabelFont" 
         -overlayLabelColor 0.8 0.8 0.8 
         -overlayLabelBackColor 0 0 0 0.5 
         -image "C:/Program Files/Autodesk/Maya2016/plug-ins/xgen//icons/xgSelectionToggle.png" 
@@ -351,6 +362,7 @@ global proc shelf_XGen () {
         -flipX 0
         -flipY 0
         -useAlpha 1
+        -font "plainLabelFont" 
         -overlayLabelColor 0.8 0.8 0.8 
         -overlayLabelBackColor 0 0 0 0.5 
         -image "C:/Program Files/Autodesk/Maya2016/plug-ins/xgen//icons/xgPrimSelection.png" 
@@ -381,6 +393,7 @@ global proc shelf_XGen () {
         -flipX 0
         -flipY 0
         -useAlpha 1
+        -font "plainLabelFont" 
         -overlayLabelColor 0.8 0.8 0.8 
         -overlayLabelBackColor 0 0 0 0.5 
         -image "C:/Program Files/Autodesk/Maya2016/plug-ins/xgen//icons/xgCullPrimContextSelect.png" 
@@ -411,6 +424,7 @@ global proc shelf_XGen () {
         -flipX 0
         -flipY 0
         -useAlpha 1
+        -font "plainLabelFont" 
         -overlayLabelColor 0.8 0.8 0.8 
         -overlayLabelBackColor 0 0 0 0.5 
         -image "C:/Program Files/Autodesk/Maya2016/plug-ins/xgen//icons/xgGuideSculptTool.png" 
