@@ -141,7 +141,7 @@ displayColor -c -active particle 16;
 displayColor -c -active pivots 19;
 displayColor -c -active placement 16;
 displayColor -c -active plane 16;
-displayColor -c -active polyEdge 21;
+displayColor -c -active polyEdge 13;
 displayColor -c -active polyFace 21;
 displayColor -c -active polyUV 14;
 displayColor -c -active polyVertex 17;
